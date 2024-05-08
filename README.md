@@ -1,4 +1,4 @@
-# CodSoftIntern: Credit Card Fraud Detection
+# CodSoft Intern: Credit Card Fraud Detection
 
 Welcome to our Credit Card Fraud Detection repository! Here, we've built a cutting-edge machine learning model dedicated to safeguarding financial transactions. 
 
