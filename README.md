@@ -1,3 +1,9 @@
-# CodSoftIntern_Credit Card Fraud Detection
+# CodSoftIntern: Credit Card Fraud Detection
 
-This repository hosts a machine learning model designed for credit card fraud detection. The model is trained to identify potentially fraudulent transactions by analyzing various transaction features, offering a robust solution for enhancing the security of credit card transactions. Leveraging a dataset with labeled fraud cases, this project showcases an effective approach to detecting and preventing fraudulent activities in credit card transactions. Explore the code, train the model, and contribute to the advancement of secure financial transactions.
+Welcome to our Credit Card Fraud Detection repository! Here, we've built a cutting-edge machine learning model dedicated to safeguarding financial transactions. 
+
+Our model is trained to identify potential fraud by analyzing transaction features, providing a robust solution to enhance credit card transaction security.
+
+Leveraging a dataset with labeled fraud cases, this project showcases an effective approach to detecting and preventing fraudulent activities.
+
+Explore our code, train the model, and join us in advancing secure financial transactions to protect consumers and businesses alike. Let's work together to combat fraud and ensure financial security for all!
